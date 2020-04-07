@@ -29,7 +29,7 @@
 
         <TextView
             android:id="@+id/seacond"
-            android:layout_width="382dp"
+            android:layout_width="wrap_content"
             android:layout_height="765dp"
             android:layout_below="@id/first"
             android:layout_marginTop="40dp"
